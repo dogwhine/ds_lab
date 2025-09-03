@@ -1,4 +1,8 @@
 {
   "jupyter.notebookFileRoot": "${workspaceFolder}",
-  "python.analysis.typeCheckingMode": "basic"
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true,
+  "python.linting.ruffEnabled": true
 }
